@@ -1,15 +1,15 @@
 {
-  "main.css": "static/css/main.118e0b00.css",
-  "main.css.map": "static/css/main.118e0b00.css.map",
-  "main.js": "static/js/main.3eb340fc.js",
-  "main.js.map": "static/js/main.3eb340fc.js.map",
-  "static/media/chicago.jpg": "static/media/chicago.124f2ed8.jpg",
-  "static/media/crashing.jpg": "static/media/crashing.e995daa2.jpg",
-  "static/media/desert.jpg": "static/media/desert.f250c8c1.jpg",
-  "static/media/germany.jpg": "static/media/germany.64af1d75.jpg",
-  "static/media/manhattan.jpg": "static/media/manhattan.e90385d7.jpg",
-  "static/media/path.jpg": "static/media/path.b01ed9ab.jpg",
-  "static/media/seattle.jpg": "static/media/seattle.68eb1824.jpg",
-  "static/media/snowmts.jpg": "static/media/snowmts.e9caaa7c.jpg",
-  "static/media/train.jpg": "static/media/train.7baf9d72.jpg"
+  "main.css": "todo/static/css/main.118e0b00.css",
+  "main.css.map": "todo/static/css/main.118e0b00.css.map",
+  "main.js": "todo/static/js/main.3eb340fc.js",
+  "main.js.map": "todo/static/js/main.3eb340fc.js.map",
+  "static/media/chicago.jpg": "todo/static/media/chicago.124f2ed8.jpg",
+  "static/media/crashing.jpg": "todo/static/media/crashing.e995daa2.jpg",
+  "static/media/desert.jpg": "todo/static/media/desert.f250c8c1.jpg",
+  "static/media/germany.jpg": "todo/static/media/germany.64af1d75.jpg",
+  "static/media/manhattan.jpg": "todo/static/media/manhattan.e90385d7.jpg",
+  "static/media/path.jpg": "todo/static/media/path.b01ed9ab.jpg",
+  "static/media/seattle.jpg": "todo/static/media/seattle.68eb1824.jpg",
+  "static/media/snowmts.jpg": "todo/static/media/snowmts.e9caaa7c.jpg",
+  "static/media/train.jpg": "todo/static/media/train.7baf9d72.jpg"
 }
