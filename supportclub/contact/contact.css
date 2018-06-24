@@ -27,7 +27,7 @@ header {
 }
 
 .bg {
-    background-image: url(images/reading.jpg);
+    background-image: url(images/boots.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -367,7 +367,7 @@ footer > p {
 
     .bg {
         height: 45vw;
-        background-position: top;
+        background-position: bottom;
         max-height: 22em;
     }
 
@@ -447,7 +447,6 @@ footer > p {
     .bg {
         height: 45vw;
         max-height: 23em;
-        background-position: top;
     }
 
     #hero-logo {
@@ -473,4 +472,22 @@ footer > p {
         padding: 0 1.7vw;
     }
     
+}
+
+@media screen and (min-width: 2000px) {
+    .bg {
+        height: 27em;
+        max-height: none;
+        background-position: bottom;
+    }
+
+    header {
+        height: 30em;
+        margin-bottom: 0em;
+    }
+
+    .section-a {
+        margin-top: 6em;
+    }
+
 }
