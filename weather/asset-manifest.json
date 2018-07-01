@@ -1,0 +1,17 @@
+{
+  "main.css": "weather/static/css/main.2f2d2a68.css",
+  "main.css.map": "weather/static/css/main.2f2d2a68.css.map",
+  "main.js": "weather/static/js/main.879b09b6.js",
+  "main.js.map": "weather/static/js/main.879b09b6.js.map",
+  "static/media/bgstyle.jpg": "weather/static/media/bgstyle.79edf0c6.jpg",
+  "static/media/chicago.jpg": "weather/static/media/chicago.51e42e2a.jpg",
+  "static/media/chicagoClear.jpg": "weather/static/media/chicagoClear.425411c5.jpg",
+  "static/media/houston.jpg": "weather/static/media/houston.d792f1bd.jpg",
+  "static/media/houstonHaze.jpg": "weather/static/media/houstonHaze.fad70d47.jpg",
+  "static/media/laClear.jpg": "weather/static/media/laClear.e9aa928b.jpg",
+  "static/media/losangeles.jpg": "weather/static/media/losangeles.f08fa7a9.jpg",
+  "static/media/newyork.jpg": "weather/static/media/newyork.4ad22baa.jpg",
+  "static/media/newyorkClear.jpg": "weather/static/media/newyorkClear.73dcfd3f.jpg",
+  "static/media/seattle.jpg": "weather/static/media/seattle.54e47fcb.jpg",
+  "static/media/seattleClear.jpg": "weather/static/media/seattleClear.4b4fbc76.jpg"
+}
